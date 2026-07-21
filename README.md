@@ -1,4 +1,4 @@
 # GithubWorkshop
 Checking I know how github works, as well as editing this file.
-Editted via cloned repo
+My name is Hammond Pearce. I am at the University
 Team members can collaborate on GitHub
